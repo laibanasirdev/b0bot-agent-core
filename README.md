@@ -32,7 +32,7 @@ git clone [https://github.com/laibanasirdev/b0bot-agent-core.git](https://github
 cd b0bot-agent-core
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 3. Environment Setup
 Create a .env file in the root directory:
